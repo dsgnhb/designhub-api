@@ -61,7 +61,7 @@
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-apidoc": "^0.2.6",
-    "gulp-bump": "^2.9.0",
+    "gulp-bump": "^3.0.0",
     "gulp-filter": "^4.0.0",
     "gulp-git": "^2.5.0",
     "gulp-gzip": "^1.4.0",
