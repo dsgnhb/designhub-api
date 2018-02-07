@@ -79,7 +79,7 @@
     "gulp-typescript": "^3.2.3",
     "minimist": "^1.2.0",
     "q": "^1.5.1",
-    "require-dir": "^0.3.2",
+    "require-dir": "^1.0.0",
     "run-sequence": "^1.2.2",
     "tslint": "^5.8.0",
     "typescript": "^2.6.2"
